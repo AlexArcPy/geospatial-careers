@@ -81,6 +81,8 @@ This page won't be updated on a regular basis so it is pretty static. If you kno
 * [Argans](https://argans.co.uk/): Environment / remote sensing consultancy
 * [Telespazio](http://www.telespazio.com/): Remote sensing / Earth observation
 * [Tcarta](https://www.tcarta.com/): GIS data sales
+* [Parkopedia](https://en.parkopedia.com): Parking service provider (data analytics)
+* [Navico](https://navico.com/): Marine Electronics (mapping/GPS/data)
 
 ## Spain
 
