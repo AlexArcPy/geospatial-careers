@@ -1,12 +1,12 @@
 # geospatial-careers
 
-Curated list of companies in geospatial industry which you can use when looking for a job. The list is sorted by country and with some extent by industry domain. I have compiled it over many years while I was a part of GIS industry.
+Curated list of companies in geospatial industry which you can use when looking for a job. The list is sorted by country and with some extent by industry domain. I have compiled it over many years while I was a part of GIS industry. This list is live and new companies are added often.
 
 Each company is documented in format of `[company website]: very brief description of what they do`. Obviously quite a few companies work with a variety things so they can be hard to categorize. A company may have jobs for GIS developers, digital mappers, photogrammetry experts, machine learning professionals, and so forth. I suggest exploring their home page to learn more about them. It is also possible that a company did just one thing when this list was published, but then they expanded and now advertize for other job titles, too.
 
 It is also possible that a company is located under a certain country section, but may have offices in other countries, too. However, keep in mind that they may look for geospatial positions only in a particular country/office. Company description is not comprehensive: a company may do many other things apart from geospatial related operations, but I won't mention them as they are irrelevant in this context. Some companies may permit working remotely. Again, please explore the company website to double-check. Due to the dynamic nature of the Internet, if the URL is broken, just use a web search engine to find a company's website.
 
-This page won't be updated on a regular basis so it is pretty static. If you know a company in geospatial sector, by all means, please do submit a pull request so we could expand this list. The geospatial industry is fairly small so I thought sharing this list with the community would benefit both the companies looking for talent and peer professionals looking for a job.
+If you know a company in geospatial sector, by all means, please do submit a pull request so we could expand this list. The geospatial industry is fairly small so I thought sharing this list with the community would benefit both the companies looking for talent and peer professionals looking for a job.
 
 ## Sweden
 
@@ -83,6 +83,11 @@ This page won't be updated on a regular basis so it is pretty static. If you kno
 * [Tcarta](https://www.tcarta.com/): GIS data sales
 * [Parkopedia](https://en.parkopedia.com): Parking service provider (data analytics)
 * [Navico](https://navico.com/): Marine Electronics (mapping/GPS/data)
+* [EarthSense Systems](https://www.earthsense.co.uk/): Air quality technologies
+* [Geospock](https://geospock.com/en/): Spatial big data platform
+* [Cervest](https://cervest.earth/): AI for climate smart decisions
+* [BP](https://www.bp.com): Oil & gas industry
+* [Envitia](https://www.envitia.com/): Geospatial software and consultancy
 
 ## Spain
 
