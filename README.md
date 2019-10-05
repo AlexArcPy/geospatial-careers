@@ -88,6 +88,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Cervest](https://cervest.earth/): AI for climate smart decisions
 * [BP](https://www.bp.com): Oil & gas industry
 * [Envitia](https://www.envitia.com/): Geospatial software and consultancy
+* [CityFibre](https://www.cityfibre.com/): Broadband geospatial engineering
 
 ## Spain
 
@@ -118,3 +119,5 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Fugro](https://www.fugro.com/): LIDAR, geoengineering, geoscience
 * [Descartes Labs](https://descarteslabs.com): Satellite imagery processing
 * [Digitalglobe](https://www.digitalglobe.com): Remote sensing imagery
+* [Extensis](https://www.extensis.com): Imagery compression and imagery management tools (formerly Lizardtech)
+* [Pitney Bowes](https://www.pitneybowes.com/): Desktop GIS and spatial analytics tools/services (formerly MapInfo)
