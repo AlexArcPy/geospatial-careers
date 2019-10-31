@@ -91,6 +91,8 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [CityFibre](https://www.cityfibre.com/): Broadband geospatial engineering
 * [ThinkWhere](https://thinkwhere.com/): Geographic data sharing
 * [Oxbotica](https://www.oxbotica.com/): Autonomous vehicle software
+* [Hummingbird Technologies](https://hummingbirdtech.com/): Satellite imagery analytics for farmers
+* [Urban Intelligence](https://w3.urbanintelligence.co.uk): Land and Development Consultancy
 
 ## Spain
 
