@@ -97,6 +97,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Schlumberger](https://www.slb.com/): Oil and gas services
 * [Trakm8](https://www.trakm8.com/): Fleet management systems
 * [Halliburton](https://www.halliburton.com): Oilfield services
+* [Open Cosmos](https://open-cosmos.com): Satellite-based solutions
 
 ## Spain
 
