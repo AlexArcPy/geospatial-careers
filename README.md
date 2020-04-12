@@ -98,6 +98,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Trakm8](https://www.trakm8.com/): Fleet management systems
 * [Halliburton](https://www.halliburton.com): Oilfield services
 * [Open Cosmos](https://open-cosmos.com): Satellite-based solutions
+* [GMV](https://www.gmv.com/en/Sectors/space/): Satellite monitoring and control
 
 ## Spain
 
@@ -130,3 +131,5 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Digitalglobe](https://www.digitalglobe.com): Remote sensing imagery
 * [Extensis](https://www.extensis.com): Imagery compression and imagery management tools (formerly Lizardtech)
 * [Pitney Bowes](https://www.pitneybowes.com/): Desktop GIS and spatial analytics tools/services (formerly MapInfo)
+* [Ricardo](https://ee.ricardo.com/): energy & environment consultancy and products
+* [ANSYS](https://www.ansys.com): aerospace and defense and other engineering/consultancy
