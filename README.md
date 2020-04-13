@@ -99,6 +99,8 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Halliburton](https://www.halliburton.com): Oilfield services
 * [Open Cosmos](https://open-cosmos.com): Satellite-based solutions
 * [GMV](https://www.gmv.com/en/Sectors/space/): Satellite monitoring and control
+* [CityMapper](https://citymapper.com/): City public transportation and planning
+* [NavMii](https://www.navmii.com/): Mobile navigation and mapping
 
 ## Spain
 
@@ -109,6 +111,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Avuxi](http://www.avuxi.com): LBS online
 * [Satellogic](https://www.satellogic.com/): Satellite imagery processing
 * [Aistech Space](http://aistechspace.com): Satellite imagery processing
+* [SmartMonkey](https://smartmonkey.io/): fleet management and routing planning 
 
 ## Remote / global
 
@@ -133,3 +136,13 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Pitney Bowes](https://www.pitneybowes.com/): Desktop GIS and spatial analytics tools/services (formerly MapInfo)
 * [Ricardo](https://ee.ricardo.com/): energy & environment consultancy and products
 * [ANSYS](https://www.ansys.com): aerospace and defense and other engineering/consultancy
+* [HERE](https://www.here.com/): digital mapping, navigation, routing data management
+* [TomTom](https://www.tomtom.com/): digital mapping, navigation, routing data management
+* [OpenCage](https://opencagedata.com/): geocoding service
+* [Ubisense](https://ubisense.com/): Location Data Analytics
+* [LivingMap](https://www.livingmap.com/): Location Data Analytics
+* [Ubimo](https://www.ubimo.com/): Location Data Analytics
+* [AziMap](https://www.azimap.com/): GIS data services
+* [NavVis](https://www.navvis.com/): indoor navigation
+* [TravelTime](https://www.traveltimeplatform.com/): Location data analytics
+* [Geolytix](https://geolytix.co.uk/): Location data analytics
