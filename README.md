@@ -101,6 +101,8 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [GMV](https://www.gmv.com/en/Sectors/space/): Satellite monitoring and control
 * [CityMapper](https://citymapper.com/): City public transportation and planning
 * [NavMii](https://www.navmii.com/): Mobile navigation and mapping
+* [JBA](https://www.jbagroup.co.uk/): environmental consulting and flood modelling
+* [Space Intelligence](https://www.space-intelligence.com/): satellite data analytics
 
 ## Spain
 
