@@ -104,6 +104,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [JBA](https://www.jbagroup.co.uk/): Environmental consulting and flood modelling
 * [Space Intelligence](https://www.space-intelligence.com/): Satellite data analytics
 * [Ferrovial](https://www.ferrovial.com/): Transport infrastructure services
+* [AgriCompas](https://agricompas.com/): Agriculture analytics
  
 ## Spain
 
