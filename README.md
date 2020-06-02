@@ -105,6 +105,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Space Intelligence](https://www.space-intelligence.com/): Satellite data analytics
 * [Ferrovial](https://www.ferrovial.com/): Transport infrastructure services
 * [AgriCompas](https://agricompas.com/): Agriculture analytics
+* [SenSat](https://www.mapp.sensat.co.uk): Remote sensing and GIS/CAD analytics
  
 ## Spain
 
