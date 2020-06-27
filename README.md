@@ -106,7 +106,12 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Ferrovial](https://www.ferrovial.com/): Transport infrastructure services
 * [AgriCompas](https://agricompas.com/): Agriculture analytics
 * [SenSat](https://www.mapp.sensat.co.uk): Remote sensing and GIS/CAD analytics
- 
+
+## Germany
+
+* [TerraLoupe](https://www.terraloupe.com): satellite imagery analytics
+* [NavVis](https://www.navvis.com/): indoor navigation
+
 ## Spain
 
 * [CartoDb](https://carto.com): geospatial analytics / mapping
@@ -148,6 +153,5 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [LivingMap](https://www.livingmap.com/): Location Data Analytics
 * [Ubimo](https://www.ubimo.com/): Location Data Analytics
 * [AziMap](https://www.azimap.com/): GIS data services
-* [NavVis](https://www.navvis.com/): indoor navigation
 * [TravelTime](https://www.traveltimeplatform.com/): Location data analytics
 * [Geolytix](https://geolytix.co.uk/): Location data analytics
