@@ -111,6 +111,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 
 * [TerraLoupe](https://www.terraloupe.com): satellite imagery analytics
 * [NavVis](https://www.navvis.com/): indoor navigation
+* [Komoot](https://www.komoot.com/): Outdoor hiking navigation
 
 ## Spain
 
@@ -123,13 +124,12 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Aistech Space](http://aistechspace.com): Satellite imagery processing
 * [SmartMonkey](https://smartmonkey.io/): fleet management and routing planning 
 
-## Remote / global
+## Remote / global / other or multiple countries
 
 * [Planet labs](https://www.planet.com): Remote sensing / commercial imagery
 * [ALK Technologies](https://www.alk.com/): Routing/Geocoding/Mapping part of Trimble
 * [Bentley](https://www.bentley.com/): GIS / CAD / BIM
 * [Apple](https://www.apple.com/): Digital mapping
-* [Komoot](https://www.komoot.com/): Outdoor hiking navigation
 * [MapBox](https://www.mapbox.com/): web mapping platform
 * [Safe](https://www.safe.com/): ETL software development
 * [Eroad](http://eroad.com): GIS for fleet monitoring
@@ -155,3 +155,5 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [AziMap](https://www.azimap.com/): GIS data services
 * [TravelTime](https://www.traveltimeplatform.com/): Location data analytics
 * [Geolytix](https://geolytix.co.uk/): Location data analytics
+* [Autodesk](https://www.autodesk.co.uk/): CAD and GIS software products
+* [Esri](https://www.esri.com/en-us/home): Esri :)
