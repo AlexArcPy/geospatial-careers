@@ -106,12 +106,18 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Ferrovial](https://www.ferrovial.com/): Transport infrastructure services
 * [AgriCompas](https://agricompas.com/): Agriculture analytics
 * [SenSat](https://www.mapp.sensat.co.uk): Remote sensing and GIS/CAD analytics
+* [Earth Blox](https://www.blox.earth): Remote sensing analytics
+* [Helyx](https://www.helyx.co.uk): Geospatial consulting
+* [Rock Seven](https://www.rock7.com/): Satellite tracking services and hardware
+* [Alchera Technologies](https://www.alcheratechnologies.com/): Real-time data infrustructure
 
 ## Germany
 
 * [TerraLoupe](https://www.terraloupe.com): satellite imagery analytics
 * [NavVis](https://www.navvis.com/): indoor navigation
 * [Komoot](https://www.komoot.com/): Outdoor hiking navigation
+* [Cloudeo](https://www.cloudeo.group/): geospatial data and services
+* [GAF](https://www.gaf.de): geospatial data and services
 
 ## Spain
 
