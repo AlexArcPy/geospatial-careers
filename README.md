@@ -94,6 +94,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Hummingbird Technologies](https://hummingbirdtech.com/): Satellite imagery analytics for farmers
 * [Urban Intelligence](https://w3.urbanintelligence.co.uk): Land and Development Consultancy
 * [Map of Ag](https://mapof.ag/): Agriculture data analytics and services
+* [Agrimetrics](https://agrimetrics.co.uk/): Agriculture data analytics and services
 * [Schlumberger](https://www.slb.com/): Oil and gas services
 * [Trakm8](https://www.trakm8.com/): Fleet management systems
 * [Halliburton](https://www.halliburton.com): Oilfield services
