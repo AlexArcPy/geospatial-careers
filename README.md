@@ -99,6 +99,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Trakm8](https://www.trakm8.com/): Fleet management systems
 * [Halliburton](https://www.halliburton.com): Oilfield services
 * [Open Cosmos](https://open-cosmos.com): Satellite-based solutions
+* [Satellite Applications Catapult](https://sa.catapult.org.uk/): Satellite-based solutions
 * [GMV](https://www.gmv.com/en/Sectors/space/): Satellite monitoring and control
 * [CityMapper](https://citymapper.com/): City public transportation and planning
 * [NavMii](https://www.navmii.com/): Mobile navigation and mapping
@@ -111,6 +112,9 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Helyx](https://www.helyx.co.uk): Geospatial consulting
 * [Rock Seven](https://www.rock7.com/): Satellite tracking services and hardware
 * [Alchera Technologies](https://www.alcheratechnologies.com/): Real-time data infrustructure
+* [4site networks](https://www.4sitenetworks.com/): Telecom services
+* [Landmark](https://www.landmark.co.uk): Land and property data services
+* [Hydro-GIS](https://hydro-gis.co.uk/): Hydrology and GIS services
 
 ## Germany
 
@@ -133,6 +137,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 
 ## Remote / global / other or multiple countries
 
+* [ExactEarth](https://www.exactearth.com/): Satellite-based fleet tracking
 * [Planet labs](https://www.planet.com): Remote sensing / commercial imagery
 * [ALK Technologies](https://www.alk.com/): Routing/Geocoding/Mapping part of Trimble
 * [Bentley](https://www.bentley.com/): GIS / CAD / BIM
@@ -162,5 +167,6 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [AziMap](https://www.azimap.com/): GIS data services
 * [TravelTime](https://www.traveltimeplatform.com/): Location data analytics
 * [Geolytix](https://geolytix.co.uk/): Location data analytics
+* [Atkins](https://www.atkinsglobal.com): Engineering consultancy
 * [Autodesk](https://www.autodesk.co.uk/): CAD and GIS software products
 * [Esri](https://www.esri.com/en-us/home): Esri :)
