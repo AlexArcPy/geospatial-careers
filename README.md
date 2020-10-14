@@ -115,6 +115,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [4site networks](https://www.4sitenetworks.com/): Telecom services
 * [Landmark](https://www.landmark.co.uk): Land and property data services
 * [Hydro-GIS](https://hydro-gis.co.uk/): Hydrology and GIS services
+* [James Hutton Institute](https://www.hutton.ac.uk/): Geospatial / environmental research
 
 ## Germany
 
