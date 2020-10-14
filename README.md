@@ -138,6 +138,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 
 ## Remote / global / other or multiple countries
 
+* [Veolia](https://www.veolia.co.uk/): Waste Management & Recycling Services
 * [ExactEarth](https://www.exactearth.com/): Satellite-based fleet tracking
 * [Planet labs](https://www.planet.com): Remote sensing / commercial imagery
 * [ALK Technologies](https://www.alk.com/): Routing/Geocoding/Mapping part of Trimble
