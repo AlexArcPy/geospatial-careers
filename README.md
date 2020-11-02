@@ -125,6 +125,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Komoot](https://www.komoot.com/): Outdoor hiking navigation
 * [Cloudeo](https://www.cloudeo.group/): geospatial data and services
 * [GAF](https://www.gaf.de): geospatial data and services
+* [Blickfeld](https://www.blickfeld.com/): LIDAR scanning services
 
 ## Spain
 
@@ -139,6 +140,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 
 ## Remote / global / other or multiple countries
 
+* [EKFB](https://www.ekfb.com/): Civil engineering
 * [Spire](https://spire.com/): Space-to-Cloud data services provider
 * [Veolia](https://www.veolia.co.uk/): Waste Management & Recycling Services
 * [ExactEarth](https://www.exactearth.com/): Satellite-based fleet tracking
