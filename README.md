@@ -117,6 +117,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Hydro-GIS](https://hydro-gis.co.uk/): Hydrology and GIS services
 * [James Hutton Institute](https://www.hutton.ac.uk/): Geospatial / environmental research
 * [Farm hand](https://www.farm-hand.in/): Agriculture analytics
+* [Extensis](https://www.extensis.com): Digital images compression tools
 
 ## Germany
 
