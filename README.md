@@ -144,6 +144,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 
 ## Remote / global / other or multiple countries
 
+* [IQGeo](https://www.iqgeo.com): Geospatial products and services
 * [Cloudeo](https://www.cloudeo.group): Remote sensing analytics
 * [Cape Analytics](https://capeanalytics.com): Remote sensing analytics
 * [Capella Space](https://www.capellaspace.com): Remote sensing analytics
