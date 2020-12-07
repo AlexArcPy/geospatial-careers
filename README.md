@@ -120,6 +120,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Extensis](https://www.extensis.com): Digital images compression tools
 * [Rovco](https://www.rovco.com/): Hydrographic survey (GIS, machine learning, Lidar) 
 * [Spottitt](https://www.spottitt.com/): Satellite imagery services
+* [Balfour Beatty](https://www.balfourbeatty.com/): Infrastructure and construction
 
 ## Germany
 
@@ -143,6 +144,9 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 
 ## Remote / global / other or multiple countries
 
+* [Cloudeo](https://www.cloudeo.group): Remote sensing analytics
+* [Cape Analytics](https://capeanalytics.com): Remote sensing analytics
+* [Capella Space](https://www.capellaspace.com): Remote sensing analytics
 * [EKFB](https://www.ekfb.com/): Civil engineering
 * [Spire](https://spire.com/): Space-to-Cloud data services provider
 * [Veolia](https://www.veolia.co.uk/): Waste Management & Recycling Services
