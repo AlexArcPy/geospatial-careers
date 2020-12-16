@@ -121,6 +121,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Rovco](https://www.rovco.com/): Hydrographic survey (GIS, machine learning, Lidar) 
 * [Spottitt](https://www.spottitt.com/): Satellite imagery services
 * [Balfour Beatty](https://www.balfourbeatty.com/): Infrastructure and construction
+* [Storm Geomatics](https://www.storm-geomatics.com): Hydrographic Surveying
 
 ## Germany
 
