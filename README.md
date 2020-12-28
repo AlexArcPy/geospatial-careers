@@ -131,6 +131,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Cloudeo](https://www.cloudeo.group/): geospatial data and services
 * [GAF](https://www.gaf.de): geospatial data and services
 * [Blickfeld](https://www.blickfeld.com/): LIDAR scanning services
+* [European Space Imaging](https://www.euspaceimaging.com/): satellite imagery analytics
 
 ## Spain
 
