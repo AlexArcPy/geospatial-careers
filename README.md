@@ -122,6 +122,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Spottitt](https://www.spottitt.com/): Satellite imagery services
 * [Balfour Beatty](https://www.balfourbeatty.com/): Infrastructure and construction
 * [Storm Geomatics](https://www.storm-geomatics.com): Hydrographic Surveying
+* [Buro Happold](https://www.burohappold.com/): engineering consulting
 
 ## Germany
 
@@ -146,6 +147,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 
 ## Remote / global / other or multiple countries
 
+* [Vortexa](https://www.vortexa.com): Oil & gas market intelligence
 * [IQGeo](https://www.iqgeo.com): Geospatial products and services
 * [Cloudeo](https://www.cloudeo.group): Remote sensing analytics
 * [Cape Analytics](https://capeanalytics.com): Remote sensing analytics
