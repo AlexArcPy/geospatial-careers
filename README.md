@@ -58,6 +58,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [3D laser mapping](https://www.3dlasermapping.com): 3D laser mapping software development
 * [Drone explorer](http://www.droneexplorer.co.uk): 3D laser mapping and drones
 * [Drone photography services](https://dronephotographyservices.co.uk): 3D laser mapping and drones
+* [Drone services](https://dronecloud.io): Drone services
 * [Cadcorp](https://www.cadcorp.com): GIS platform software kit
 * [exeGesIS ](https://www.esdm.co.uk/): Geospatial software development and services
 * [BioCarbon Engineering](https://www.biocarbonengineering.com): Forestry mapping / restore forest UAV
@@ -123,6 +124,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Balfour Beatty](https://www.balfourbeatty.com/): Infrastructure and construction
 * [Storm Geomatics](https://www.storm-geomatics.com): Hydrographic Surveying
 * [Buro Happold](https://www.burohappold.com/): engineering consulting
+* [Mapix](https://www.mapix.com): LiDAR sensors
 
 ## Germany
 
