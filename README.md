@@ -125,6 +125,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Storm Geomatics](https://www.storm-geomatics.com): Hydrographic Surveying
 * [Buro Happold](https://www.burohappold.com/): engineering consulting
 * [Mapix](https://www.mapix.com): LiDAR sensors
+* [Farad.ai](https://www.farad.ai/): Electricity analytics
 
 ## Germany
 
