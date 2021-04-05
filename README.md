@@ -126,6 +126,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [Buro Happold](https://www.burohappold.com/): engineering consulting
 * [Mapix](https://www.mapix.com): LiDAR sensors
 * [Farad.ai](https://www.farad.ai/): Electricity analytics
+* [Earthx](https://www.earthx.com): Satellite imagery analytics
 
 ## Germany
 
