@@ -137,6 +137,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 * [GAF](https://www.gaf.de): geospatial data and services
 * [Blickfeld](https://www.blickfeld.com/): LIDAR scanning services
 * [European Space Imaging](https://www.euspaceimaging.com/): satellite imagery analytics
+* [Up42](https://up42.com): geospatial analytics
 
 ## Spain
 
@@ -151,6 +152,7 @@ If you know a company in geospatial sector, by all means, please do submit a pul
 
 ## Remote / global / other or multiple countries
 
+* [Orbica](https://orbica.world/work-for-us): Location intelligence.
 * [Vortexa](https://www.vortexa.com): Oil & gas market intelligence
 * [IQGeo](https://www.iqgeo.com): Geospatial products and services
 * [Cloudeo](https://www.cloudeo.group): Remote sensing analytics
